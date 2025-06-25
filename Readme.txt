@@ -47,7 +47,7 @@ I'm Kamalam Krishnan, an enthusiastic AIML learner currently pursuing my 3rd yea
 
 ## 🎥 Demo Video (with Voice-over)
 
-📽️ [Click here to watch the screen recording](https://drive.google.com/file/d/your-google-drive-video-link-here/view)
+📽️ [Click here to watch the screen recording](https://drive.google.com/file/d/1JsJZgAT_3-2k34bYAihlsXxPrCS0r8JP/view?usp=drive_link)
 
 > *Explaining the features, sections, resume download, and responsiveness*
 
